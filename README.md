@@ -4,7 +4,8 @@
 <br>
 
 - I'm a **computing science / economics** student at **Simon Fraser University** in **BC, Canada** :canada:.
-- My tools of choice include **JavaScript/Node.js, C++, OCaml, Java, Python, D** and **Swift**.
+- My tools of choice include **JavaScript/Node.js, C++, C#, Java, Python, D** and **Swift**.
+  - I also know, but don't usually use, **Visual Basic for Applications**, **PHP**, **OCaml**, and **Ruby**.
 - I am particularly interested in :computer: **computer systems, :pencil: productivity apps, :eye: computer vision,** and :moneybag: **fintech**. 
 - I love watching/playing :basketball: **basketball** and watching/doing :punch: **MMA**.
 - I speak :uk: **English, :serbia: Serbo-Croatian** (therefore also :croatia: :bosnia_herzegovina: :slovenia: :montenegro: :macedonia:), and a bit of :jp: **Japanese** (currently learning :fr: **French**).
