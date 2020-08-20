@@ -18,7 +18,7 @@
   - :lock_with_ink_pen: [**COVID twitter bot**](https://github.com/danilolekovic/COVID-Twitter-Bot): a COVID-19 Twitter bot for Canada `JavaScript` `Heroku` `Twitter API`
   - :lock_with_ink_pen: [**butler**](https://github.com/danilolekovic/Butler): an AI stock trading bot for *educational purposes only* `Python` `WealthSimple API`
   - :lock_with_ink_pen: [**pitfall**](https://github.com/danilolekovic/pitfall): remake of the popular Atari game with PyGame `Python` `PyGame`
-  - :lock_with_ink_pen: [**iode (old)**](https://github.com/danilolekovic/iode-old-js): the old (much more popular) version of **iode**
+  - :lock_with_ink_pen: [**iode (old)**](https://github.com/danilolekovic/iode-old-js): the old (much more popular) version of **iode** `Python`
 
 
 
