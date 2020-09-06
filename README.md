@@ -9,6 +9,7 @@
 - I am particularly interested in :computer: **computer systems, :pencil: productivity apps, :eye: computer vision,** and :moneybag: **fintech**. 
 - I love watching/playing :basketball: **basketball** and watching/doing :punch: **MMA**.
 - I speak :uk: **English, :serbia: Serbo-Croatian** (therefore also :croatia: :bosnia_herzegovina: :slovenia: :montenegro: :macedonia:), and a bit of :jp: **Japanese** (currently learning :fr: **French**).
+- I am currently seeking an internship for :palm_tree: **Summer 2021**, which is why [this repository exists](https://github.com/danilolekovic/leetcode). Want to hire me? `danilo@lekovic.ca`
 - These are the projects I am currently working on:
   - :unlock: [**iode-d**](https://github.com/danilolekovic/iode-d): a programming language `D`
   - :unlock: [**sorter**](https://github.com/danilolekovic/sorter): a visual display of various sorting algorithms `JavaScript`
@@ -20,6 +21,9 @@
   - :lock_with_ink_pen: [**butler**](https://github.com/danilolekovic/Butler): an AI stock trading bot for *educational purposes only* `Python` `WealthSimple API`
   - :lock_with_ink_pen: [**pitfall**](https://github.com/danilolekovic/pitfall): remake of the popular Atari game with PyGame `Python` `PyGame`
   - :lock_with_ink_pen: [**iode (old)**](https://github.com/danilolekovic/iode): the old (much more popular) version of **iode** `JavaScript`
+  - :lock_with_ink_pen: [**iDetector**](https://github.com/danilolekovic/iDetector): android app that detects stop signs `Java` `Machine Learning`
+  - :lock_with_ink_pen: [**haar-negative**](https://github.com/danilolekovic/haar-negative): python script for getting negative samples quickly and efficiently for HAAR cascade training `Python` `Machine Learning`
+  - :lock_with_ink_pen: [**Netduino Button LED**](https://github.com/danilolekovic/Netduino-Button-LED) and [**Netduino Servo**](https://github.com/danilolekovic/Netduino-Servo): controlling an LED and/or servo with a switch using the original Netduino `Netduino` `C#`
 
 
 
