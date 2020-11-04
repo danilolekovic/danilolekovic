@@ -1,5 +1,18 @@
 ### Hello! I'm Danilo 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-danilolekovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-lekovic/)](https://www.linkedin.com/in/danilo-lekovic/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 ![](https://github-readme-stats.vercel.app/api?username=danilolekovic&count_private=true)
 <br>
 
@@ -9,7 +22,7 @@
 - I am particularly interested in :computer: **computer systems, :pencil: productivity apps, :eye: computer vision,** and :moneybag: **fintech**. 
 - I love watching/playing :basketball: **basketball** and watching/doing :punch: **MMA**.
 - I speak :uk: **English, :serbia: Serbo-Croatian** (therefore also :croatia: :bosnia_herzegovina: :slovenia: :montenegro: :macedonia:), and a bit of :jp: **Japanese** (currently learning :fr: **French**).
-- I am currently seeking an internship for :palm_tree: **Summer 2021**, which is why [this repository exists](https://github.com/danilolekovic/leetcode). Want to hire me? `danilo@lekovic.ca`
+- I am currently seeking an internship for :palm_tree: **Summer 2021**, which is why [this repository exists](https://github.com/danilolekovic/leetcode).
 - These are the projects I am currently working on:
   - :unlock: [**iode-d**](https://github.com/danilolekovic/iode-d): a programming language `D`
   - :unlock: [**sorter**](https://github.com/danilolekovic/sorter): a visual display of various sorting algorithms `JavaScript`
