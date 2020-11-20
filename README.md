@@ -20,6 +20,7 @@
 - My tools of choice include **JavaScript/Node.js, C++, C#, Java, Python, D** and **Swift**.
   - I also know, but don't usually use, **Visual Basic for Applications**, **PHP**, **OCaml**, and **Ruby**.
 - I am particularly interested in :computer: **computer systems, :pencil: productivity apps, :eye: computer vision,** and :moneybag: **fintech**. 
+- I've made [video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), [stock-trading robots](https://github.com/danilolekovic/Butler), and [AI road sign cascades](https://github.com/danilolekovic/haar-negative), among other things.
 - I love watching/playing :basketball: **basketball** and watching/doing :punch: **MMA**.
 - I speak :uk: **English, :serbia: Serbo-Croatian** (therefore also :croatia: :bosnia_herzegovina: :slovenia: :montenegro: :macedonia:), and a bit of :jp: **Japanese** (currently learning :fr: **French**).
 - I am currently seeking an internship for :palm_tree: **Summer 2021**, which is why [this repository exists](https://github.com/danilolekovic/leetcode).
@@ -31,7 +32,7 @@
 - These are the projects I have done in the past, but am not actively maintaining anymore:
   - :lock_with_ink_pen: [**kite**](http://danilolekovic.github.io/kite): small & super-fast HTML templating `JavaScript` `HTML`
   - :lock_with_ink_pen: [**COVID twitter bot**](https://github.com/danilolekovic/COVID-Twitter-Bot): a COVID-19 Twitter bot for Canada `JavaScript` `Heroku` `Twitter API`
-  - :lock_with_ink_pen: [**butler**](https://github.com/danilolekovic/Butler): an AI stock trading bot for *educational purposes only* `Python` `WealthSimple API`
+  - :lock_with_ink_pen: [**butler**](https://github.com/danilolekovic/Butler): an AI stock trading bot for *educational purposes only* `Python` `Wealthsimple API`
   - :lock_with_ink_pen: [**pitfall**](https://github.com/danilolekovic/pitfall): remake of the popular Atari game with PyGame `Python` `PyGame`
   - :lock_with_ink_pen: [**iode (old)**](https://github.com/danilolekovic/iode): the old (much more popular) version of **iode** `JavaScript`
   - :lock_with_ink_pen: [**iDetector**](https://github.com/danilolekovic/iDetector): android app that detects stop signs `Java` `Machine Learning`
