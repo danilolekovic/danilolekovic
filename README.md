@@ -22,7 +22,7 @@
 - I am particularly interested in :computer: **computer systems, :pencil: productivity apps, :eye: computer vision,** and :moneybag: **fintech**. 
 - I've made [video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), [stock-trading robots](https://github.com/danilolekovic/Butler), and [AI road sign cascades](https://github.com/danilolekovic/haar-negative), among other things.
 - I love watching/playing :basketball: **basketball** and watching/doing :punch: **MMA**.
-- I speak :uk: **English, :serbia: Serbo-Croatian** (therefore also :croatia: :bosnia_herzegovina: :slovenia: :montenegro: :macedonia:), and a bit of :jp: **Japanese** (currently learning :fr: **French**).
+- I speak :uk: **English, :serbia: Serbo-Croatian**, and a bit of :jp: **Japanese** & :fr: **French** (currently learning :kr: **Korean**).
 - I am currently seeking an internship for :palm_tree: **Summer 2021**, which is why [this repository exists](https://github.com/danilolekovic/leetcode).
 - These are the projects I am currently working on:
   - :unlock: [**iode-d**](https://github.com/danilolekovic/iode-d): a programming language `D`
