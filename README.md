@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![](https://github-readme-stats.vercel.app/api?username=danilolekovic&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=danilolekovic&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
 - I'm a **computing science / economics** student at **Simon Fraser University** in **BC, Canada** :canada:.
