@@ -24,7 +24,7 @@
 - I've made [video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), [stock-trading robots](https://github.com/danilolekovic/Butler), and [AI road sign cascades](https://github.com/danilolekovic/haar-negative), among other things.
 - I love watching/playing :basketball: **basketball** and watching/doing :punch: **MMA**.
 - I speak :uk: **English, :serbia: Serbo-Croatian**, and a bit of :jp: **Japanese** & :fr: **French** (currently learning :kr: **Korean**).
-- I am currently seeking an internship for :palm_tree: **Summer 2021**, which is why [this repository exists](https://github.com/danilolekovic/leetcode).
+- I start working at **Canalyst**, a fintech company, in the summer of 2021
 - These are the projects I am currently working on:
   - :unlock: [**iode-d**](https://github.com/danilolekovic/iode-d): a programming language `D`
   - :unlock: [**sorter**](https://github.com/danilolekovic/sorter): a visual display of various sorting algorithms `JavaScript`
