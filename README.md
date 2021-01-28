@@ -1,7 +1,7 @@
 ### Hello! I'm Danilo 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-danilolekovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-lekovic/)](https://www.linkedin.com/in/danilo-lekovic/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white)
