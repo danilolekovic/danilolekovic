@@ -10,10 +10,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-<div style="text-align:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=danilolekovic&count_private=true&show_icons=true&theme=tokyonight" />
-<br>
-  </div>
 
 - I'm a **computing science / economics** student at **Simon Fraser University** in **BC, Canada** :canada:.
 - My tools of choice include **JavaScript/Node.js, C++, C#, Java, Python, D** and **Swift**.
