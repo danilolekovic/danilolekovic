@@ -12,7 +12,7 @@
 
 - I'm a **computing science / economics** student at **Simon Fraser University** in **BC, Canada** :canada:.
 - My tools of choice include **JavaScript/Node.js, C++, C#, Java, Python, MATLAB, D** and **Swift**.
-  - I also know, but don't usually use, **Visual Basic for Applications**, **PHP**, **OCaml**, **Ruby** and **x88-64 AT&T Assembly**.
+  - I also know, but don't usually use, **Visual Basic for Applications**, **PHP**, **OCaml**, **Ruby** and **x86-64 AT&T Assembly**.
 - I am particularly interested in :computer: **computer systems, :pencil: productivity apps, :eye: computer vision,** :moneybag: **fintech**, as well as the :moneybag: **stock market**. 
 - I've made [video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), [stock-trading robots](https://github.com/danilolekovic/Butler), and [AI road sign cascades](https://github.com/danilolekovic/haar-negative), among other things.
 - I love watching/playing :basketball: **basketball** and watching/doing :punch: **MMA**.
