@@ -6,7 +6,7 @@
 
 - I'm currently an 8-month **software engineer intern** at [**Canalyst**](https://canalyst.com/), where I'm helping **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
   - Previously, I worked with **VBA** at **International Parcel Service**.
-- I'm also a third-year **computer science & psychology** student at **Simon Fraser University** in **beautiful British Columbia** :canada:.
+- I'm also a third-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
   - My expected graduation date is **April, 2023**.
 
 ### Tech Stack
@@ -16,11 +16,17 @@
 - My tools of choice include **Vue.js**, **Electron**, and **Tableau**.
   - I also know, but don't usually use, **Django**, **React.js**, and **LLVM**.
 
-### Interests & Projects
+### Technical Interests & Projects
 
 - I am particularly interested in 📰 **data science**, :computer: **programming languages, :pencil: productivity apps, :eye: computer vision,** :moneybag: **fintech**, as well as the 💹 **stock market**. 
 - I've made [video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), [stock-trading robots](https://github.com/danilolekovic/Butler), and [AI road sign cascades](https://github.com/danilolekovic/haar-negative), among other things.
 - Currently, I'm learning lots about 🎛️ **data science** and trying to vastly improve my knowledge of 🐬 **SQL**.
 
+### Personal Interests
 
-You can find out more about me at 🌐 [my personal webpage](http://danilolekovic.me/).
+- I'm actively training in 🥋 **Brazillian jiu jitsu**, 🥊 **kickboxing** & 🤼 **wrestling**.
+- I've been a franchise-long fan of the <img src="https://user-images.githubusercontent.com/8854152/143652891-a44decbe-9180-4d0a-9b65-b95275add7c5.png" width="15"/> **Seattle Kraken**.
+
+<hr />
+
+You can find out more about me at 🌐 [my personal webpage](http://danilolekovic.me/). Want to chat? [Hit me up on LinkedIn!](https://www.linkedin.com/in/danilo-lekovic/)
