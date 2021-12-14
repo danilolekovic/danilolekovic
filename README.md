@@ -11,10 +11,10 @@
 
 ### Tech Stack
 
-- My languages of choice include **C#, JavaScript & TypeScript, Python, SQL, MATLAB** and **D**.
-  - I also know, but don't usually use, **Visual Basic for Applications**, **PHP**, **Java**, **C++** and **x86-64 AT&T Assembly**.
-- My tools of choice include **Vue.js**, **Electron**, and **Tableau**.
-  - I also know, but don't usually use, **Django**, **React.js**, and **LLVM**.
+- My languages of choice include **C#, JavaScript & TypeScript, Python, SQL,** and **MATLAB**.
+  - I also know, but don't usually use, **Visual Basic for Applications**, **PHP**, **Java**, **C++**, **D** and **x86-64 AT&T Assembly**.
+- My tools of choice include **React**, **Electron**, and **Tableau**.
+  - I also know, but don't usually use, **Django**, **Vue**, and **LLVM**.
 
 ### Technical Interests & Projects
 
