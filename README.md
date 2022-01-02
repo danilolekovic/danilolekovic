@@ -4,8 +4,8 @@
 
 ### Education & Experience
 
-- I'm currently an 8-month **software engineer intern** at [**Canalyst**](https://canalyst.com/), where I'm helping **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
-  - Previously, I worked with **VBA** at **International Parcel Service**.
+- I recently wrapped up an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/), where I helped **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
+  - Before that, I worked with **VBA** at **International Parcel Service**.
 - I'm also a third-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
   - My expected graduation date is **April, 2023**.
 
