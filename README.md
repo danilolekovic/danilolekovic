@@ -25,7 +25,7 @@
 ### Personal Interests
 
 - I'm actively training in 🥋 **Brazillian jiu jitsu**, 🥊 **kickboxing** & 🤼 **wrestling**.
-- I've been a franchise-long fan of the <img src="https://user-images.githubusercontent.com/8854152/143652891-a44decbe-9180-4d0a-9b65-b95275add7c5.png" width="15"/> **Seattle Kraken**.
+- I've been a franchise-long fan of the <img src="https://user-images.githubusercontent.com/8854152/143652891-a44decbe-9180-4d0a-9b65-b95275add7c5.png" width="15"/> **Seattle Kraken**, but naturally, I'm also a huge fan of the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png" width="15"/> **Vancouver Canucks**.
 
 <hr />
 
