@@ -29,4 +29,4 @@
 
 <hr />
 
-You can find out more about me at 🌐 [my personal webpage](http://danilolekovic.me/). Want to chat? [Hit me up on LinkedIn!](https://www.linkedin.com/in/danilo-lekovic/)
+You can find out more about me at 🌐 [my personal webpage](http://danilolekovic.com/). Want to chat? [Hit me up on LinkedIn!](https://www.linkedin.com/in/danilo-lekovic/)
