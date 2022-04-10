@@ -12,7 +12,7 @@
 ### Tech Stack
 
 - My languages of choice include **Python, JavaScript & TypeScript, C#,** and **SQL**.
-  - I also know, but don't usually use, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C++**, **D** and **x86-64 AT&T Assembly**.
+  - I also know, but don't usually use, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, **D** and **x86-64 AT&T Assembly**.
 - My tools & libraries of choice include **pandas**, **numpy**, **React**, **Electron**, and **Tableau**.
   - I also know, but don't usually use, **Django**, **Vue**, **LLVM**, and **Apache Spark**.
 
