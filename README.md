@@ -1,12 +1,9 @@
 ### Hello! I'm Danilo 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-danilolekovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-lekovic/)](https://www.linkedin.com/in/danilo-lekovic/)
-
 ### Education & Experience
 
 - I recently wrapped up an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/), where I helped **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
   - I'll be coming back to **Canalyst** for another 4-month internship in **September, 2022**.
-  - Before that, I worked with **VBA** at **International Parcel Service**.
 - I'm also a fourth-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
   - My expected graduation date is **August, 2023**.
 
