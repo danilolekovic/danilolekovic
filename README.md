@@ -5,20 +5,21 @@
 ### Education & Experience
 
 - I recently wrapped up an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/), where I helped **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
+  - I'll be coming back to **Canalyst** for another 4-month internship in **September, 2022**.
   - Before that, I worked with **VBA** at **International Parcel Service**.
 - I'm also a fourth-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
-  - My expected graduation date is **April, 2023**.
+  - My expected graduation date is **August, 2023**.
 
 ### Tech Stack
 
 - My languages of choice include **Python, JavaScript & TypeScript, C#,** and **SQL**.
   - I also know, but don't usually use, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, **D** and **x86-64 AT&T Assembly**.
-- My tools & libraries of choice include **pandas**, **numpy**, **React**, **Electron**, and **Tableau**.
+- My tools & libraries of choice include **React**, **pandas**, **numpy**, **Google Firebase**, and **Tableau**.
   - I also know, but don't usually use, **Django**, **Vue**, **LLVM**, and **Apache Spark**.
 
 ### Technical Interests & Projects
 
-- I am particularly interested in 📰 **data**, :computer: **programming languages, :pencil: productivity, :eye: computer vision,** :moneybag: **financial technology**, as well as the 💹 **stock market**. 
+- I am particularly interested in 📰 **data**, :computer: **cybersecurity, :pencil: programming languages, :eye: AI,** :moneybag: **financial technology**, as well as 💹 **markets**. 
 - I've made [video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), [stock-trading robots](https://github.com/danilolekovic/Butler), and [AI road sign cascades](https://github.com/danilolekovic/haar-negative), among other things.
 - Currently, I'm learning lots about 🎛️ **data science** and trying to vastly improve my knowledge of 🐬 **SQL**.
 
