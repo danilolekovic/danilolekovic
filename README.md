@@ -2,8 +2,7 @@
 
 ### Education & Experience
 
-- I recently wrapped up an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/), where I helped **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
-  - I'll be coming back to **Canalyst** for another 4-month internship in **September, 2022**.
+- I'm currently a **software engineer intern** at [**Tegus**](https://www.tegus.com). Before that, I did an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/), where I helped **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
 - I'm also a fourth-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
   - My expected graduation date is **August, 2023**.
 
