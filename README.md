@@ -4,19 +4,20 @@
 
 - I'm currently a **software engineer intern** at [**Tegus**](https://www.tegus.com). Before that, I did an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/), where I helped **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
 - I'm also a fourth-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
-  - My expected graduation date is **August, 2023**.
+  - I will be graduating in **August, 2023** and am seeking a full-time role in software engineering or data science.
 
 ### Tech Stack
 
-- My languages of choice include **Python, JavaScript & TypeScript, C#,** and **SQL**.
+- My languages of choice include **Python, JavaScript,** and **C#,**.
   - I also know, but don't usually use, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, **D** and **x86-64 AT&T Assembly**.
-- My tools & libraries of choice include **React**, **pandas**, **numpy**, **Google Firebase**, and **Tableau**.
-  - I also know, but don't usually use, **Django**, **Vue**, **LLVM**, and **Apache Spark**.
+- My tools & libraries of choice include **React**, **Redux**, **pandas**, **numpy**, **Google Firebase**, and **Tableau**.
+  - I also know, but don't usually use, **Svelte**, **Vue**, **LLVM**, and **Apache Spark**.
 
-### Technical Interests & Projects
+### Technical Interests & Personal/Academic Projects
 
-- I am particularly interested in 📰 **data**, :computer: **cybersecurity, :pencil: programming languages, :eye: AI,** :moneybag: **financial technology**, as well as 💹 **markets**. 
-- I've made [video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), [stock-trading robots](https://github.com/danilolekovic/Butler), and [AI road sign cascades](https://github.com/danilolekovic/haar-negative), among other things.
+- I am particularly interested in 📰 **data**, :computer: **cybersecurity, :pencil: programming languages, :eye: AI,** :moneybag: **financial technology**, as well as **sports analytics**.
+- I've made [retro video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), and [models that can determine if an NBA player's salary is just right](https://github.com/danilolekovic/nba-salaries), among other things.
+- I also did research & developed a [personalized Python learning platform with gamified elements](https://github.com/danilolekovic/cmpt415-project) under the supervision of Dr. Hazra Imran.
 - Currently, I'm learning lots about 🎛️ **data science** and trying to vastly improve my knowledge of 🐬 **SQL**.
 
 ### Personal Interests
