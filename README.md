@@ -2,9 +2,9 @@
 
 ### Education & Experience
 
-- I'm currently a **software engineer intern** at [**Tegus**](https://www.tegus.com). Before that, I did an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/), where I helped **build and maintain fundamental models** that the world's largest, most successful investment managers rely on to get the cleanest fundamental data and leverage their time.
-- I'm also a fourth-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
-  - I will be graduating in **August, 2023** and am seeking a full-time role in software engineering or data science.
+- I just wrapped up a **software engineer intern** term at [**Tegus**](https://www.tegus.com). Prior, I did an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/).
+- I'm a final-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
+  - I will be graduating in **August, 2023** and I am currently seeking a full-time role in software engineering or data science.
 
 ### Tech Stack
 
@@ -22,9 +22,9 @@
 
 ### Personal Interests
 
+- I love the <img src="https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-transparent.png" width="30"/> **Seattle Seahawks**, <img src="https://static.www.nfl.com/t_headshot_desktop/league/api/clubs/logos/MIN" width="20"/> **Minnesota Vikings** and <img src="https://www.cbssports.com/bundles/sportsmediacss/images/team-logos/nba/alt/light/MIN.svg" width="20"/> **Minnesota Timberwolves**.
+- I'm also a fan of <img src="https://user-images.githubusercontent.com/8854152/143652891-a44decbe-9180-4d0a-9b65-b95275add7c5.png" width="15"/> **Seattle Kraken** and, of course, the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png" width="15"/> **Vancouver Canucks**.
 - I'm actively training in 🥋 **jiu jitsu**, 🥊 **kickboxing** & 🤼 **wrestling**.
-- I love the <img src="https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-transparent.png" width="30"/> **Seattle Seahawks** and <img src="https://www.cbssports.com/bundles/sportsmediacss/images/team-logos/nba/alt/light/MIN.svg" width="20"/> **Minnesota Timberwolves**.
-- I've been a franchise-long fan of the <img src="https://user-images.githubusercontent.com/8854152/143652891-a44decbe-9180-4d0a-9b65-b95275add7c5.png" width="15"/> **Seattle Kraken**, but naturally, I'm also a huge fan of the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png" width="15"/> **Vancouver Canucks**.
 
 <hr />
 
