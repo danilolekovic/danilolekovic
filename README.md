@@ -2,7 +2,7 @@
 
 ### Education & Experience
 
-- I just wrapped up a **software engineer intern** term at [**Tegus**](https://www.tegus.com). Prior, I did an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/).
+- I just wrapped up a 4 month **software engineering internship** at [**Tegus**](https://www.tegus.com). Prior, I did an 8-month **software engineering internship** at [**Canalyst**](https://canalyst.com/).
 - I'm a final-year **computer science & psychology** student at <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
   - I will be graduating in **August, 2023** and I am currently seeking a full-time role in software engineering or data science.
 
