@@ -3,7 +3,7 @@
 ### Education & Experience
 
 - I'm currently a **Software Engineer** at **Tegus**.
-- I hold a Bachelor's degree in **computer science & psychology** from <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.**.
+- I hold a Bachelor's degree in **computer science & psychology** from <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia**, :canada:.
 
 ### Tech Stack
 
@@ -17,7 +17,7 @@
 - I am particularly interested in 📰 **data**, :computer: **cybersecurity, :pencil: programming languages, :eye: AI,** :moneybag: **financial technology**, as well as **sports analytics**.
 - I've made [retro video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), and [models that can determine if an NBA player's salary is just right](https://github.com/danilolekovic/nba-salaries), among other things.
 - I also did research & developed a [personalized Python learning platform with gamified elements](https://github.com/danilolekovic/cmpt415-project) under the supervision of Dr. Hazra Imran.
-- Currently, I'm learning lots about 🎛️ **data science** and trying to vastly improve my knowledge of 🐬 **SQL**.
+- Currently, I'm learning lots about 🎛️ **data science** and trying to vastly improve my knowledge of **AWS**.
 
 ### Personal Interests
 
