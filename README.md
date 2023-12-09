@@ -7,8 +7,8 @@
 
 ### Tech Stack
 
-- My languages of choice include **Python, JavaScript,** and **C#,**.
-  - I also know, but don't usually use, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, **D** and **x86-64 AT&T Assembly**.
+- My languages of choice include **Python, JavaScript, C#,** and **Rust**.
+  - I also know, but don't usually use, **Haskell**, **Julia**, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, **D** and **x86-64 AT&T Assembly**.
 - My tools & libraries of choice include **React**, **Redux**, **pandas**, **numpy**, **Google Firebase**, and **Tableau**.
   - I also know, but don't usually use, **Svelte**, **Vue**, **LLVM**, and **Apache Spark**.
 
