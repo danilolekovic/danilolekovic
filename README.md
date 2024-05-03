@@ -2,15 +2,15 @@
 
 ### Education & Experience
 
-- I'm a **Software Engineer** at **Tegus**.
+- I'm a **Software Engineer** at **Tegus**. Up until April 2024, I worked on C# tooling. Since then, I've been working full-stack, on both frontend and backend.
 - I hold a Bachelor's degree in **computer science & psychology** from <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia** :canada:.
 
 ### Tech Stack
 
-- My languages of choice include **Python, JavaScript, C#,** and **Rust**.
+- My languages of choice include **Python, JavaScript/TypeScript, C#,** and **Rust**.
   - I also know, but don't usually use, **Swift**, **Haskell**, **Julia**, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, **D** and **x86-64 AT&T Assembly**.
-- My tools & libraries of choice include **React**, **Redux**, **pandas**, **numpy**, **Google Firebase**, and **Tableau**.
-  - I also know, but don't usually use, **Svelte**, **Vue**, **LLVM**, and **Apache Spark**.
+- My tools & libraries of choice include **Vue**, **React**, **Redux**, **pandas**, **numpy**, **Google Firebase**, and **Tableau**.
+  - I also know, but don't usually use, **Svelte**, **LLVM**, and **Apache Spark**.
 
 ### Technical Interests & Personal/Academic Projects
 
