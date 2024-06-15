@@ -2,14 +2,14 @@
 
 ### Education & Experience
 
-- I'm a **Software Engineer** at **Tegus**. Up until April 2024, I worked on C# tooling. Since then, I've been working full-stack, on both frontend and backend.
+- I'm a **Software Engineer** at **Tegus**. Up until April 2024, I worked on C# tooling. Since then, I've been working full-stack.
 - I hold a Bachelor's degree in **computer science & psychology** from <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia** :canada:.
 
 ### Tech Stack
 
-- My languages of choice include **Python, JavaScript/TypeScript, C#,** and **Rust**.
-  - I also know, but don't usually use, **Swift**, **Haskell**, **Julia**, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, **D** and **x86-64 AT&T Assembly**.
-- My tools & libraries of choice include **Vue**, **React**, **Redux**, **pandas**, **numpy**, **Google Firebase**, and **Tableau**.
+- My languages of choice include **Python, JavaScript/TypeScript, C#,** and **Ruby**.
+  - I also know, but don't usually use, **Rust**, **Haskell**, **Julia**, **Visual Basic for Applications**, **MATLAB**, **PHP**, **Java**, **C**, **C++**, and **D**.
+- My tools & libraries of choice include **Vue**, **React**, **pandas**, **numpy**, **Google Firebase**, **Figma**, and **Tableau**.
   - I also know, but don't usually use, **Svelte**, **LLVM**, and **Apache Spark**.
 
 ### Technical Interests & Personal/Academic Projects
@@ -17,7 +17,6 @@
 - I am particularly interested in 📰 **data**, :computer: **cybersecurity, :pencil: programming languages, :eye: AI,** :moneybag: **financial technology**, as well as **sports analytics**.
 - I've made [retro video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), and [models that can determine if an NBA player's salary is just right](https://github.com/danilolekovic/nba-salaries), among other things.
 - I also did research & developed a [personalized Python learning platform with gamified elements](https://github.com/danilolekovic/cmpt415-project) under the supervision of Dr. Hazra Imran.
-- I'm currently building an app called [MacroMind](https://github.com/danilolekovic/MacroMind), because I don't like how overly-complicated macro-tracking apps are.
 
 ### Personal Interests
 
