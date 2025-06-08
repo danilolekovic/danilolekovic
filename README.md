@@ -2,7 +2,7 @@
 
 ### Education & Experience
 
-- I'm a **Software Engineer** at **AlphaSense**. Up until April 2024, I worked on C# tooling. After that, I worked on full-stack. Now, I'm working on financial data.
+- I'm a **Software Engineer** at **AlphaSense**. Up until April 2024, I worked on C# tooling. Since then, I've been full-stack, working on financial data.
 - I hold a Bachelor's degree in **computer science & psychology** from <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia** :canada:.
 
 ### Tech Stack
