@@ -16,6 +16,7 @@
 ### Technical Interests & Personal/Academic Projects
 
 - I am particularly interested in 📰 **data**, :computer: **cybersecurity, :pencil: programming languages, :eye: AI,** :moneybag: **financial technology**, as well as **sports analytics** and **statistics**.
+- I'm the creator of [Flagatomy](https://flagatomy.com/) - a daily flag guessing game.
 - I've made [retro video games](https://github.com/danilolekovic/pitfall), [programming languages](https://github.com/danilolekovic/iode), and [models that can determine if an NBA player's salary is just right](https://github.com/danilolekovic/nba-salaries), among other things.
 - I also did research & developed a [personalized Python learning platform with gamified elements](https://github.com/danilolekovic/cmpt415-project) under the supervision of Dr. Hazra Imran.
 
