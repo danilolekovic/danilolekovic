@@ -2,7 +2,7 @@
 
 ### Education & Experience
 
-- I'm a **full-stack software engineer** at **AlphaSense**.
+- I'm a **senior software engineer** at **AlphaSense**.
 - I hold a Bachelor's degree in **computer science & psychology** from <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia** :canada:.
 - I'm starting my Master's degree in **computer science** (intended specialization in **Artificial Intelligence**) at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/2560px-Georgia_Tech_Yellow_Jackets_logo.svg.png" width="20"/> **Georgia Tech** in the amazing city of **Atlanta** :us:.
 
