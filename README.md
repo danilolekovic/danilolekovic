@@ -1,10 +1,11 @@
 ### Hello! I'm Danilo 👋
 
-### Education & Experience
+### Me, Education & Experience
 
-- I'm a **senior software engineer** at **AlphaSense**.
+- I'm a full-stack. **senior software engineer** at **AlphaSense**. I'm having a great time working on some really interesting financial data user experiences.
 - I hold a Bachelor's degree in **computer science & psychology** from <img src="https://user-images.githubusercontent.com/8854152/143653458-d5ed852c-692e-43bc-824b-07c3c7ade805.png" width="20"/> **Simon Fraser University** in **beautiful British Columbia** :canada:.
 - I'm currently doing my Master's degree in **computer science** (intended specialization in **Artificial Intelligence**) at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/2560px-Georgia_Tech_Yellow_Jackets_logo.svg.png" width="20"/> **Georgia Tech** in the amazing city of **Atlanta** :us:.
+- I live in Vancouver, British Columbia.
 
 ### Tech Stack
 
@@ -23,7 +24,7 @@
 ### Personal Interests
 
 - I love the <img src="https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-transparent.png" width="30"/> **Seattle Seahawks**, <img src="https://static.www.nfl.com/t_headshot_desktop/league/api/clubs/logos/MIN" width="20"/> **Minnesota Vikings** and <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png" width="20"/> **Minnesota Timberwolves**.
-- I'm also a fan of the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png" width="20"/> **Vancouver Canucks**, and the <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/Vancouver_C%27s.PNG" width="20"/> **High-A Vancouver Canadians**.
+- I'm also a fan of the <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png" width="20"/> **Vancouver Canucks**, the Toronto Bluejays, the <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/Vancouver_C%27s.PNG" width="20"/> **High-A Vancouver Canadians**.
 - For college sports, I'm a <img src="https://static.wikia.nocookie.net/collegefootballmania/images/1/11/Georgia-Tech-Yellow-Jackets-Logo.png/revision/latest?cb=20210531114615" width="20"/> **Georgia Tech Yellow Jacket**.
 - I love going to the gym.
 
